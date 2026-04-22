@@ -1,0 +1,2 @@
+# -Healthcare--Patient--Outcomes-Readmission--Analysis
+Healthcare Patient Outcomes &amp; Readmission Analysis evaluates the quality of care by tracking patient recovery, satisfaction, and unplanned return visits within the days of discharge. By leveraging predictive analytics to identify high-risk individuals, it enables proactive interventions, improves care transitions, and reduces hospital costs.
